@@ -11,7 +11,7 @@
 - Created a commit and (optionally) a pull request
 
 ### Learning
-This week helped me understand how open source contributions actually work in practice. I learned how to fork repositories, create branches, and make changes without affecting the original project.
+This week helped me understand how open source contributions actually work in practice. I learned how to fork repositories, create branches, and make changes without affecting the original project. Also most of the stuff I did is written in the CONTRIBUTING.md file.
 
 I also learned that contributions are not limited to coding, and that improving documentation is also valuable.
 
